@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="welcome_to_greet_app">Welcome To Greet App</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="greetard">Greetard</string>
+    <string name="greet_card">Greet card</string>
+</resources>
